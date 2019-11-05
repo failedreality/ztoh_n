@@ -5,6 +5,11 @@ body {
     background-size: cover;
 }
 
+.col-sm {
+    background-color: grey;
+    border: 2px solid black;
+}
+
 h1 {
     color: #000000;
     text-align: center;
