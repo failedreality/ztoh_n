@@ -39,7 +39,7 @@ body {
 .main-nav {
     display: flex;
     list-style: none;
-    font-size: 0.9em;
+    font-size: 0.7em;
     margin: 0;
 }
 
@@ -89,7 +89,7 @@ a {
 
 .box {
     background-color: #444;
-    padding: 130px;
+    padding: 75px;
     margin: 20px;
 }
 
